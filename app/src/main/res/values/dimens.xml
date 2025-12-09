@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">12dp</dimen>
+    <dimen name="marginTop">30dp</dimen>
+    <dimen name="encabezado">20sp</dimen>
+    <dimen name="texto">12sp</dimen>
+
+    <dimen name="marginRV">5dp</dimen>
+    <dimen name="marginFBA">16dp</dimen>
+</resources>

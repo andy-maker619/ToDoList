@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="encabezado">Bienvenido a tu To Do List</string>
+    <string name="developer">Desarrollado por: Macias Flores Andy Adan</string>
+    <string name="tituloTarea">Titulo de la tarea</string>
+    <string name="descripcion">Descripcion de la tarea</string>
+
+    <!-- Botones -->
+    <string name="verLista">Ver mis tareas</string>
+    <string name="agregarTarea">Agregar tarea nueva</string>
+    <string name="tareaCompletada">Tarea Finalizada</string>
+    <string name="borrarTarea">Eliminar tarea</string>
+    
+    <string-array name="status_task">
+        <item>Pendiente</item>
+        <item>Completado</item>
+    </string-array>
+</resources>

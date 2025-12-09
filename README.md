@@ -18,8 +18,9 @@ Este proyecto nomas maneja una tabla llamada tasks.
 | created_at    |
 | is_complete    |
 # Interfaces de usuario
-Interfaz de bienvenida
-
-Interfaz de las tareas
-
-Interfaz para agregar una nueva tarea.
+Interfaz de bienvenida  
+<img width="400" height="891" alt="Image" src="https://github.com/user-attachments/assets/76701626-3536-4fe4-9386-9bf68c029bb8" />  
+Interfaz para agregar una nueva tarea.  
+<img width="400" height="891" alt="Image" src="https://github.com/user-attachments/assets/3d2ca803-a487-4c26-a40d-af0e85023208" />  
+Interfaz de las tareas  
+<img width="399" height="893" alt="Image" src="https://github.com/user-attachments/assets/4f92f5ce-1c0c-4821-9b6b-3c55860e976a" />
